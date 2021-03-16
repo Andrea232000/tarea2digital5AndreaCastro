@@ -1,0 +1,68 @@
+body {
+background-image: url("fondo3.jpg");
+
+
+}
+
+h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-shadow: 2px 2px red; /*2px de sombra horizontal y vertical*/
+ /*text-shadow: 2px 2px 5px red; /* efecto de 5px de desenfoque */text-shadow: 2px 2px rgb(136, 134, 134); /*2px de sombra horizontal y vertical*/
+ /*text-shadow: 2px 2px 5px red; /* efecto de 5px de desenfoque */
+    font-size: 50px;;
+    background-size: 100%;
+    background-image: url("fondito1.jpg");
+    color: rgb(179, 79, 79);
+    text-align: center;
+ border-style: solid;
+    border-width: 10px;
+    border-color: pink;
+    border-radius: 150px;
+
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 150px;
+
+    padding: 50px 25px 50px 25px;
+}
+  
+p.uno {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+     font-size: 20px;
+    text-align: center;
+    color: #ffffff;
+    background-color: rgb(235, 113, 113);
+    border-style: solid;
+    border-width: medium;
+    border-color: pink;
+    border-radius: 150px;
+
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 150px;
+
+    padding: 50px 25px 50px 25px;
+
+}
+  
+p.dos {
+    font-family: Arial, Helvetica, sans-serif;
+     font-size: 50px;
+    text-align: center;
+    color: #ffffff;
+    background-color: rgb(235, 113, 113);
+   border-style: solid;
+    border-width: medium;
+    border-color:pink;
+    border-radius: 150px;
+
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 150px;
+
+    padding: 50px 25px 50px 25px;
+} 
